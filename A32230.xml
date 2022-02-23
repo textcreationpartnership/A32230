@@ -1,0 +1,319 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A pindarique ode on the birth of the young Prince of Wales by Caleb Calle, Gent.</title>
+            <author>Calle, Caleb.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1688</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A32230</idno>
+            <idno type="STC">Wing C300</idno>
+            <idno type="STC">ESTC R37459</idno>
+            <idno type="EEBO-CITATION">16959353</idno>
+            <idno type="OCLC">ocm 16959353</idno>
+            <idno type="VID">105469</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A32230)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 105469)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1611:6)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A pindarique ode on the birth of the young Prince of Wales by Caleb Calle, Gent.</title>
+                  <author>Calle, Caleb.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Randal Taylor ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1688.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"Licensed July 9th. 1688. R.P."</note>
+                  <note>Reproduction of original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>James, --  Prince of Wales, 1688-1766 --  Poetry.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-07</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2013-07</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:105469:1" rendition="simple:additions"/>
+            <p>A Pindarique ODE, ON THE BIRTH Of the YOUNG PRINCE OF WALES.</p>
+            <p>
+               <hi>By CALEB CALLE,</hi> Gent.</p>
+            <floatingText type="license" xml:lang="eng">
+               <body>
+                  <p>Licenſed <hi>July</hi> 9th. 1688.</p>
+                  <closer>
+                     <signed>R. P.</signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Randal Taylor</hi> near Stationers-Hall. 1688.</p>
+         </div>
+      </front>
+      <body>
+         <div type="ode">
+            <pb facs="tcp:105469:2"/>
+            <pb facs="tcp:105469:2" rendition="simple:additions"/>
+            <head>A PINDARIQUE ODE, On the BIRTH of the Young PRINCE.</head>
+            <lg>
+               <head>I.</head>
+               <l>'TIS come, the Mighty Bleſſing's come,</l>
+               <l>Heav'n heard the Prayers of our <hi>Iſle:</hi>
+               </l>
+               <l>And now both Heav'n and Earth-together Smile,</l>
+               <l>And ſent the beneficial Bleſſing home.</l>
+               <l>Some <hi>Angel</hi> with Triumphant Wings,</l>
+               <l>To the whole Nation Joyful <hi>Requiems</hi> ſings,</l>
+               <l>And to far diſtant Shores the Meſſage brings.</l>
+               <l>Happy thoſe Lands whoſe Sacred Monarchs are</l>
+               <l>The Favourites of Heav'ns peculiar Care:</l>
+               <l>All things on Earth do to their Scepters bow,</l>
+               <l>And <hi>Gods</hi> above ſmile on their <hi>Wills</hi> below!</l>
+               <l>Some mighty buſineſs muſt (ſay they) be done,</l>
+               <l>We muſt our Choiceſt Moulds prepare</l>
+               <l>To caſt ſome <hi>Demi-God,</hi> ſome wondrous Son</l>
+               <l>To be (almoſt like <hi>Jove</hi>) three Kingdoms Heir.</l>
+               <l>A Princely <hi>HERO</hi> muſt be Born</l>
+               <l>The Ancient <hi>Brittiſh Line</hi> t' adorn,</l>
+               <l>To prop and ſpread the <hi>Royal</hi> Name;</l>
+               <l>In Lands remote, t' advance its Fame</l>
+               <pb n="2" facs="tcp:105469:3"/>
+               <l>As far as <hi>Ganges</hi> is beyond the <hi>Thame.</hi>
+               </l>
+               <l>May peaceful thoughts Lodge in the Mothers Breaſt,</l>
+               <l>Thoughts Still, and Calm, as an <hi>Helcyons</hi> Neſt,</l>
+               <l>And when her Eyes her Princely Babe ſhall View,</l>
+               <l>May all ſurprizing Joys enſue;</l>
+               <l>Joys more than humane, and for ever New.</l>
+            </lg>
+            <lg>
+               <head>II.</head>
+               <l>May all th' auſpicious marks of Gallantry</l>
+               <l>Imprinted on his Royal Outſide be;</l>
+               <l>Then, let a beautiful, and comely Grace,</l>
+               <l>Shine through each Feature of his Face,</l>
+               <l>To manifeſt he's more than humane Race:</l>
+               <l>A ſweet, yet a Majeſtick <hi>Mien,</hi>
+               </l>
+               <l>That, as a Prince, his Subjects ſhould outſhine;</l>
+               <l>So ſhould his make, and ſhape be all Divine:</l>
+               <l>
+                  <hi>Minevva</hi> too, ſhall ſhowre down</l>
+               <l>Her Bleſſing on his budding Crown,</l>
+               <l>To his ſweet Looks ſhe ſhall impart</l>
+               <l>A Valiant and <hi>Heroick</hi> Heart,</l>
+               <l>That at the Face of Danger ſcorns to ſtart:</l>
+               <l>Renown'd and famous ſhall he be,</l>
+               <l>For Arts of Arms, and Chivalry:</l>
+               <l>His Fathers Banners he ſhall ſoon advance,</l>
+               <l>With thundering muſick and a martial Dance,</l>
+               <l>Fearing no frowns, nor need the help of chance.</l>
+            </lg>
+            <pb n="3" facs="tcp:105469:3"/>
+            <lg>
+               <head>III.</head>
+               <l>He like another <hi>Hercules</hi> with eaſe</l>
+               <l>To death, ſhall all unnatural Serpents ſqueeze;</l>
+               <l>In vain they hiſs, in vain they Roar;</l>
+               <l>Their Venom they ſhall ſhed no more;</l>
+               <l>His Conquering Arm ſhall ſoon ſubdue</l>
+               <l>
+                  <hi>Teckelite</hi> Turks, and homebred Jews,</l>
+               <l>Such as our Great forefathers never knew.</l>
+               <l>In his victorious Enſigns ſhall he wear</l>
+               <l>The <hi>Croſs,</hi> the Sacred Badge of <hi>Chriſtendome,</hi>
+               </l>
+               <l>The <hi>Croſs,</hi> that all our Battles paſt hath won,</l>
+               <l>The Earneſt of our Victories to <hi>come.</hi>
+               </l>
+               <l>Worſe Dragons ſhall that <hi>Myſtick Trophee</hi> quell,</l>
+               <l>Than by <hi>St. George</hi> e're fell,</l>
+               <l>
+                  <hi>Paſſions, and Luſts, and Sparks of Hell,</hi>
+               </l>
+               <l>That 'gainſt the <hi>Nobler Part</hi> Rebel.</l>
+               <l>His Glory like the unweary'd Sun;</l>
+               <l>From <hi>Pole</hi> to <hi>Pole</hi> ſhall Run:</l>
+               <l>And Tributary Kings ſhall Come,</l>
+               <l>With Gold, and Incenſe, and <hi>Arabian</hi> Gum,</l>
+               <l>And to his Royal Scepter bow,</l>
+               <l>And dazl'd with his Glory, Vow;</l>
+               <l>They n'ere beheld a Prince ſo rare,</l>
+               <l>So like the <hi>Second James</hi> for War,</l>
+               <l>For Wiſdom <hi>James</hi> the <hi>Firſt,</hi> the <hi>Second Solomon.</hi>
+               </l>
+            </lg>
+            <pb n="4" facs="tcp:105469:4"/>
+            <lg>
+               <head>IV.</head>
+               <l>Who then can ſay that Wonders are no more,</l>
+               <l>And Miracles long ſince giv'n o're;</l>
+               <l>What Chains of Wonders have we ſeen,</l>
+               <l>What Miracles have lately been</l>
+               <l>On that for ever Lamentable Day</l>
+               <l>When at the ſtake three helpleſs Kingdoms lay,</l>
+               <l>When the whole <hi>Iſle</hi> with ſtorms was toſt,</l>
+               <l>When it the <hi>beſt</hi> of <hi>Kings,</hi> and <hi>Fathers</hi> loſt,</l>
+               <l>What Plagues, what Deſolation did enſue,</l>
+               <l>What dire confuſions did we view!</l>
+               <l>Triumphant <hi>Babel</hi> then bore ſway,</l>
+               <l>Men knew not how, nor whom to obey.</l>
+               <l>How did the trembling Nation Lye,</l>
+               <l>In a Convulſive Agony,</l>
+               <l>Quite ſenceleſs, and about to expire?</l>
+               <l>And it had dy'd, had not the Royal Line</l>
+               <l>Been kept alive by Power Divine,</l>
+               <l>And <hi>Phaenix-Charles</hi> and <hi>James</hi> Rofe from their Fathers Pyre.</l>
+            </lg>
+            <lg>
+               <head>V.</head>
+               <l>VVhen Sons of <hi>Belial</hi> do combine</l>
+               <l>In ſome tremendous black deſign,</l>
+               <l>Deeper than Hell, and think to overthrow</l>
+               <l>Kings, and Kingdoms at a blow;</l>
+               <l>Heaven then prepares a Countermine:</l>
+               <l>A ſure, tho' unexpected providence</l>
+               <l>Hovering waits for their Defence,</l>
+               <pb n="5" facs="tcp:105469:4"/>
+               <l>The happy Monument <hi>Newmarket</hi> ſtands,</l>
+               <l>A <hi>Sacred,</hi> and <hi>Prophetick Flame!</hi>
+               </l>
+               <l>Traytors had <hi>Royal</hi> Blood prepar'd,</l>
+               <l>But Heav'n the <hi>Royal</hi> Victim ſpar'd;</l>
+               <l>Mercy their Curſt Deſign o'recame,</l>
+               <l>Heav'n ſpar'd the <hi>Iſaac</hi> and prepar'd a <hi>Ram.</hi>
+               </l>
+               <l>The guiltleſs Town in aſhes lies</l>
+               <l>And falls the unthought on Sacrifice;</l>
+            </lg>
+            <lg>
+               <head>VI.</head>
+               <l>So Heav'n the ſame Face of Mercy wore.</l>
+               <l>When on the treacherous <hi>Leman-Our,</hi>
+               </l>
+               <l>Th' unhappy <hi>Gloceſter</hi> ſtruck,</l>
+               <l>Long did ſhe with the waves contend,</l>
+               <l>But they prov'd <hi>Victors</hi> in the end:</l>
+               <l>The Mariners diſtracted Cries</l>
+               <l>Rend the Melancholly Skies:</l>
+               <l>In haſt their trembling knees they bend,</l>
+               <l>And hearty, tho confuſed Prayers ſend</l>
+               <l>For ſome <hi>Angelick</hi> friend</l>
+               <l>The <hi>Royal Cargo</hi> to defend,</l>
+               <l>Heav'n heard,</l>
+               <l>And tho' each Object horror ſhew'd,</l>
+               <l>
+                  <hi>Great James</hi> with a Coeleſtial Guard,</l>
+               <l>Bold and undaunted ſtood</l>
+               <l>And brav'd the fury of the flood:</l>
+               <l>Troops of <hi>Hero's</hi> by his ſide,</l>
+               <l>Like leſſer Stars dropt down and dy'd,</l>
+               <pb n="6" facs="tcp:105469:5"/>
+               <l>Whiles he a Tear or two let fall</l>
+               <l>To mourn, and to <hi>Inrich</hi> their <hi>Funeral.</hi>
+               </l>
+            </lg>
+            <lg>
+               <head>VII.</head>
+               <l>Return my Muſe, and once more ſtrike thy Lyre,</l>
+               <l>Kindle a ſoft, and peaceful fire,</l>
+               <l>Let Plots and dangers for a while retire:</l>
+               <l>Welcome Illuſtrious Infant; now we View</l>
+               <l>The Joy of Men, and Angels too;</l>
+               <l>Welcome as is to Miſers wealth,</l>
+               <l>Or to deſpairing Sinners health,</l>
+               <l>As Life to men rais'd from the Dead,</l>
+               <l>As Heav'n to a Soul juſt fled.</l>
+               <l>How much admir'd ſhall <hi>Albion</hi> be,</l>
+               <l>When other Nations ſhall her bleſſing ſee!</l>
+               <l>What props are to the Royal Cedar rear'd,</l>
+               <l>To render it at once belov'd and fear'd!</l>
+               <l>No more ſhall ſactious diſcords ſway,</l>
+               <l>Nor Point to Anarchy th'unhappy way;</l>
+               <l>Peace ſhall her beauteous face put on,</l>
+               <l>And Unity once more aſcend the Throne;</l>
+               <l>Since all are bleſſings in ſuch a Prince as he,</l>
+               <l>May all in an united Love agree;</l>
+               <l>Oh may the happy Reformation come,</l>
+               <l>That thoſe that would exclude the Father, now may love the Son.</l>
+            </lg>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
